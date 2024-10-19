@@ -1,0 +1,11 @@
+language: python
+python:
+  - "3.8"
+
+# Install dependencies
+install:
+  - pip install pytest
+
+# Run tests
+script:
+  - pytest test_script.py
