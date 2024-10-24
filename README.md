@@ -173,6 +173,3 @@ With Travis CI set up, we now have an automated pipeline that ensures code is te
 
 - **Questions or feedback?**  
 &nbsp; Feel free to open an [issue](https://github.com/madhurimarawat/Learning-Travis-CI/issues) or connect via [GitHub Discussions](https://github.com/madhurimarawat/Learning-Travis-CI/discussions). I'm happy to help!<br>
-
-- **Follow this repo** to get notified about new challenges and updates! ⭐  
-- 👩‍💻 **Happy Coding!**
