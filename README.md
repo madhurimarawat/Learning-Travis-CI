@@ -169,7 +169,7 @@ With Travis CI set up, we now have an automated pipeline that ensures code is te
 
 - Drop a 🌟 if you find this repository useful.
 - If you have any doubts or suggestions, feel free to reach: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
-<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
+<a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br>
 
 - **Questions or feedback?**  
 &nbsp; Feel free to open an [issue](https://github.com/madhurimarawat/Learning-Travis-CI/issues) or connect via [GitHub Discussions](https://github.com/madhurimarawat/Learning-Travis-CI/discussions). I'm happy to help!<br>
